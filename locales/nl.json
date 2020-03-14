@@ -35,7 +35,7 @@
       "login_form_submit": "Naar binnen",
       "signup_form_email_label": "E-mail",
       "signup_form_success": "Wij sturen u een e-mail nog voordat we open gaan!",
-      "admin_link_html": "Bent u de winkeleigenaar? <a href=\"/admin\" class=\"text-link\">Log hier in</a>",
+      "admin_link_html": "Bent u de winkeleigenaar? <a href=\"\/admin\" class=\"text-link\">Log hier in<\/a>",
       "password_link": "Ga naar binnen met wachtwoord",
       "powered_by_shopify_html": "Deze winkel wordt door {{ shopify }} aangedreven"
     },
@@ -99,7 +99,7 @@
       "pause_slideshow": "Diavoorstelling pauzeren",
       "rotate_slideshow": "Diavoorstelling afspelen",
       "load_slide": "Laad dia {{ slide_number }}",
-      "navigation_instructions": "Gebruik de pijlen links/rechts om door de diavoorstelling te navigeren, of veeg links/rechts op een mobiel apparaat"
+      "navigation_instructions": "Gebruik de pijlen links\/rechts om door de diavoorstelling te navigeren, of veeg links\/rechts op een mobiel apparaat"
     },
     "featured_product": {
       "title": "Uitgelicht product",
@@ -110,7 +110,7 @@
     "map": {
       "address_error": "Fout bij het opzoeken van dat adres",
       "address_no_results": "Geen resultaten voor dat adres",
-      "address_query_limit_html": "U heeft de gebruikslimiet van de Google API overschreden. Overweeg een upgrade naar een <a href=\"https://developers.google.com/maps/premium/usage-limits\">Premium-pakket</a>.",
+      "address_query_limit_html": "U heeft de gebruikslimiet van de Google API overschreden. Overweeg een upgrade naar een <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium-pakket<\/a>.",
       "auth_error_html": "Er is een probleem opgetreden bij het verifiëren van uw Google Maps-account.",
       "section_heading": "Locatie"
     },
@@ -158,14 +158,14 @@
     "general": {
       "title": "Uw winkelwagen",
       "note": "Voeg een opmerking aan uw bestelling toe",
-      "removed_item_html": "<span class=\"cart__removed-product-details\">({{ quantity }}) {{ link }}</span> uit uw winkelwagen verwijderd.",
+      "removed_item_html": "<span class=\"cart__removed-product-details\">({{ quantity }}) {{ link }}<\/span> uit uw winkelwagen verwijderd.",
       "remove": "Verwijderen",
       "subtotal": "Subtotaal",
       "savings": "U bespaart",
       "taxes_and_shipping_at_checkout": "Belastingen en verzendkosten worden berekend bij het afrekenen",
-      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">verzendkosten</a> worden berekend bij het afrekenen",
+      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">verzendkosten<\/a> worden berekend bij het afrekenen",
       "taxes_included_but_shipping_at_checkout": "Belasting inbegrepen en verzendkosten worden berekend bij het afrekenen",
-      "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{{ link }}\">Verzendkosten</a> worden berekend bij het afrekenen.",
+      "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{{ link }}\">Verzendkosten<\/a> worden berekend bij het afrekenen.",
       "update": "Bijwerken",
       "checkout": "Afrekenen",
       "empty": "Uw winkelwagen is leeg.",
@@ -256,7 +256,7 @@
       "address1": "Adres",
       "address2": "Appertementnr. etc.",
       "city": "Stad",
-      "country": "Land/regio",
+      "country": "Land\/regio",
       "province": "Provincie",
       "zip": "Postcode",
       "phone": "Telefoon",
@@ -384,7 +384,7 @@
       "vendor": "Verkoper",
       "quantity_minimum_message": "Hoeveelheid moet 1 of meer zijn",
       "include_taxes": "Inclusief belasting",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Verzendkosten</a> worden berekend bij het afrekenen.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Verzendkosten<\/a> worden berekend bij het afrekenen.",
       "unit_price_label": "Eenheidsprijs",
       "view_cart": "Winkelwagen bekijken",
       "availability": "Beschikbaarheid",
